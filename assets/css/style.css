@@ -1,0 +1,30 @@
+
+* {
+  font-family: "Roboto", sans-serif;
+}
+
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+
+.box {
+  display: inline;
+  min-height: 200px;
+  min-width: 200px;
+  margin-top: 20px;
+  margin-bottom: 40px;
+  border: 1px solid black;
+}
+
+h3 {
+  font-size: medium;
+  text-align: center;
+  font-weight: 300;
+}
+
+#alert {
+  text-align: center;
+  margin-top: 10px;
+  margin-bottom: 50px;
+}
