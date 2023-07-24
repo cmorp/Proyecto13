@@ -1,5 +1,5 @@
 
-const suma2 = function (a, b) {
+const suma = function (a, b) {
     return a + b;
 }
 
